@@ -1,1 +1,35 @@
+# binance-futures-bot
 
+**CLI-based Binance USDT-M Futures Bot (Mandatory Part)**
+
+This repository contains:
+
+- `src/market_orders.py` → Market order script (simulated)
+- `src/limit_orders.py` → Limit order script (simulated)
+- `bot.log` → Logs all actions and errors
+- `README.md` → Setup & usage instructions
+- `report.pdf` → Add manually (screenshots + explanation)
+
+---
+
+## Project Structure
+
+binance-futures-bot/
+├── src/
+│ ├── market_orders.py
+│ └── limit_orders.py
+├── bot.log
+├── README.md
+└── report.pdf
+
+
+
+
+
+
+
+
+---
+
+
+git push
