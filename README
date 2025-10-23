@@ -22,14 +22,21 @@ binance-futures-bot/
 ├── README.md
 └── report.pdf
 
-
-
-
-
-
-
+yaml
+Copy code
 
 ---
 
+## Requirements
 
-git push
+- Python 3.8+
+- No external libraries required (pure Python)
+- CLI only — no GUI or web interface
+
+---
+
+## Usage
+
+### Market Order
+```bash
+python src/market_orders.py BTCUSDT BUY 0.01
